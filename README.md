@@ -6,5 +6,5 @@ Salah satu masalah yang muncul pada tampilan website Wardah adalah kurangnya ket
 # Solution website :
 Solusi yang saya lakukan dalam masalah tersebut adalah dengan menambahkan latar belakang pada navbar dan memberikan sentuhan warna yang konsisten dengan warna merek Wardah
 
-![image](projectbilaa/media/gmbr1.png)
-![image](projectbilaa/media/gmbr2.png)
+![image](media/gmbr1.png)
+![image](media/gmbr2.png)
